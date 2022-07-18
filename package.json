@@ -9,8 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iamolegga/react-native-launch-arguments.git",
-    "baseUrl": "https://github.com/iamolegga/react-native-launch-arguments"
+    "url": "git+https://github.com/selfapy/react-native-launch-arguments.git",
+    "baseUrl": "https://github.com/selfapy/react-native-launch-arguments"
   },
   "keywords": [
     "react",
@@ -20,8 +20,7 @@
     "arguments"
   ],
   "author": {
-    "name": "iamolegga",
-    "email": "iamolegga@gmail.com"
+    "name": "selfapy"
   },
   "license": "MIT",
   "peerDependencies": {
